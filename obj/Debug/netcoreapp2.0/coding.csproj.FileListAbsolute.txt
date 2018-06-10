@@ -1,0 +1,11 @@
+/Users/daynegame/Desktop/coding/obj/Debug/netcoreapp2.0/coding.csprojResolveAssemblyReference.cache
+/Users/daynegame/Desktop/coding/obj/Debug/netcoreapp2.0/coding.csproj.CoreCompileInputs.cache
+/Users/daynegame/Desktop/coding/obj/Debug/netcoreapp2.0/coding.AssemblyInfoInputs.cache
+/Users/daynegame/Desktop/coding/obj/Debug/netcoreapp2.0/coding.AssemblyInfo.cs
+/Users/daynegame/Desktop/coding/bin/Debug/netcoreapp2.0/coding.deps.json
+/Users/daynegame/Desktop/coding/bin/Debug/netcoreapp2.0/coding.runtimeconfig.json
+/Users/daynegame/Desktop/coding/bin/Debug/netcoreapp2.0/coding.runtimeconfig.dev.json
+/Users/daynegame/Desktop/coding/bin/Debug/netcoreapp2.0/coding.dll
+/Users/daynegame/Desktop/coding/bin/Debug/netcoreapp2.0/coding.pdb
+/Users/daynegame/Desktop/coding/obj/Debug/netcoreapp2.0/coding.dll
+/Users/daynegame/Desktop/coding/obj/Debug/netcoreapp2.0/coding.pdb
